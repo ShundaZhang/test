@@ -1,0 +1,2 @@
+git reset --soft HEAD~4 && git commit -m "squashed commit"
+git push -f
